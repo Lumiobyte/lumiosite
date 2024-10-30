@@ -1,0 +1,1 @@
+This Django site included the quizzes Django app from the quiz site, as well as the "rcgscoreboard" app that provided an online scoreboard function for a Unity game. The repository includes Docker and Shell files that were used for deployment on a VPS. 
